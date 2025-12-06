@@ -1,0 +1,24 @@
+# Gitignore for AI/Spec-Driven Book Creation project
+
+# Node.js / Docusaurus
+node_modules/
+dist/
+build/
+*.log
+.env*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+*.egg-info/
+
+# Universal
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
